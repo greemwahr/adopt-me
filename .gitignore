@@ -20,6 +20,7 @@ chrome-user-data
 .idea
 *.iml
 .vscode
+.env
 .cache/*
 *.swp
 *.swo
